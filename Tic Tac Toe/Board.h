@@ -1,3 +1,5 @@
+#ifndef BOARD_H
+#define BOARD_H
 /* Board.h
  *
  * Contains the interface for the Tic Tac Toe board
@@ -9,3 +11,5 @@
  * Last Update
  *   04-22-2018
  */
+
+#endif

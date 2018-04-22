@@ -12,6 +12,7 @@
 
 #include "Player.h"
 #include "Board.h"
+#include "Game.h"
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -19,6 +20,6 @@
 using namespace std;
 
 int main(int argc, char *argv[]) {
-  cout << "This will be a Tic Tac Toe program!" << endl;
+  cout << "In progress, ending program" << endl;
   return 0;
 }
